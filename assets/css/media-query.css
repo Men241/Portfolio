@@ -1,0 +1,14 @@
+/*@media (min-width: 1200px) {
+  .blocText1 {
+    margin-top: 60px;
+    margin-left: 81px;
+  }
+}*/
+
+@media (min-width: 1200px) {
+}
+@media (min-width: 1000px) {
+  .d-xl-flex {
+    font: 6px;
+  }
+}
